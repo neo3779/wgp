@@ -1,0 +1,9 @@
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\Audio\xactutorial.xml
+G:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\Audio\xactutorial.xml
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\Audio\IGPCA.xml
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\x86\Debug\Audio\IGPCA.xml

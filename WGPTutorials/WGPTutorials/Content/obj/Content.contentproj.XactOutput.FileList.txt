@@ -1,0 +1,3 @@
+Content\Audio\IGPCA.xgs
+Content\Audio\IGPCAwavBank.xwb
+Content\Audio\IGPCAsouBank.xsb

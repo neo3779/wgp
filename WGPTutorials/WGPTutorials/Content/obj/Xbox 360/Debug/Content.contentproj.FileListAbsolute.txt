@@ -1,0 +1,2 @@
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\Xbox 360\Debug\Audio\IGPCA.xml

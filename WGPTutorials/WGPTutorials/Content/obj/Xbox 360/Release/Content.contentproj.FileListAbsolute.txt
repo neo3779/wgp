@@ -1,0 +1,4 @@
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\Xbox 360\Release\Audio\IGPCA.xml
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\Content\obj\Xbox 360\Release\Audio\IGPCA.xml

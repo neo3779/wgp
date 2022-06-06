@@ -1,0 +1,68 @@
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Fonts\Arial.xnb
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\background.xnb
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midge.xnb
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midgespray.xnb
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.exe.manifest
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.application
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.exe
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.pdb
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.exe.manifest
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.application
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.exe
+F:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.pdb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Fonts\Arial.xnb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\background.xnb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midge.xnb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midgespray.xnb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\xactutorial.xgs
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\xactwaves.xwb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\xactsounds.xsb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.exe.manifest
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.application
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.exe
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\WGPTutorials.pdb
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.exe.manifest
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.application
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.exe
+K:\Uni\Year 2\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\WGPTutorials.pdb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Fonts\Arial.xnb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\background.xnb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midge.xnb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midgespray.xnb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\IGPCA.xgs
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\IGPCAwavBank.xwb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\IGPCAsouBank.xsb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.exe.manifest
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.application
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.exe
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.pdb
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.exe.manifest
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.application
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.exe
+F:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.pdb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Fonts\Arial.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\background.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midge.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\midgespray.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\B1_nebula02.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\B1_stars.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Textures\Alien.xnb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\IGPCA.xgs
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\IGPCAwavBank.xwb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Content\Audio\IGPCAsouBank.xsb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.exe.manifest
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.application
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.exe
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\bin\x86\Debug\Assignment.pdb
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.exe.manifest
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.application
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.exe
+K:\Uni\Year 2\Semster 1\WinProg\WGPTutorials\WGPTutorials\obj\x86\Debug\Assignment.pdb

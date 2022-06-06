@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="IGPCAwavBank">Wave Bank
+{
+    Name = IGPCAwavBank;
+    Xbox File = Xbox\IGPCAwavBank.xwb;
+    Windows File = Win\IGPCAwavBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 90441330;
+    Bank Last Revised High = 30048503;
+
+    Wave
+    {
+        Name = fly;
+        File = Wave\fly.wav;
+        Build Settings Last Modified Low = 2348309264;
+        Build Settings Last Modified High = 30045405;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 888960;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4271161344;
+            Last Modified High = 29961661;
+        }
+    }
+
+    Wave
+    {
+        Name = MidgeKilled;
+        File = Wave\MidgeKilled.wav;
+        Build Settings Last Modified Low = 2348459264;
+        Build Settings Last Modified High = 30045405;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 10676;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1749384960;
+            Last Modified High = 29856115;
+        }
+    }
+
+    Wave
+    {
+        Name = spray;
+        File = Wave\spray.wav;
+        Build Settings Last Modified Low = 2348619264;
+        Build Settings Last Modified High = 30045405;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 62976;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4033393408;
+            Last Modified High = 29935127;
+        }
+    }
+
+    Wave
+    {
+        Name = tada;
+        File = Wave\tada.wav;
+        Build Settings Last Modified Low = 2348779264;
+        Build Settings Last Modified High = 30045405;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 171008;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 578560000;
+            Last Modified High = 29436875;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
